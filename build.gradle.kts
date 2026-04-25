@@ -42,7 +42,7 @@ dependencies {
     compileOnly("net.Indyuce:MMOItems-API:6.9.5-SNAPSHOT")
     compileOnly("com.arcaniax:HeadDatabase-API:1.3.2")
     compileOnly("com.willfp:eco:7.2.2")
-    compileOnly("net.momirealms:craft-engine-core:0.0.67")
+    compileOnly("net.momirealms:craft-engine-core:0.0.67.11")
     compileOnly("net.momirealms:craft-engine-bukkit:0.0.67")
     compileOnly("com.nexomc:nexo:1.21.0")
     compileOnly("com.github.Ssomar-Developement:SCore:5.25.3.9")
