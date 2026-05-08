@@ -31,7 +31,7 @@ dependencies {
     compileOnly("gg.aquatic:KRegistry:25.0.3")
     compileOnly("gg.aquatic:Common:26.0.16")
     compileOnly("gg.aquatic:KEvent:26.0.5")
-    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
+    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
 
     // Item adapters
     compileOnly("gg.aquatic:AEAPI:1.0")
